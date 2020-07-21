@@ -1,6 +1,6 @@
 <h1 align="center">Have you seen this bunny?</h1>
 
-![miko](./img/miko.jpg)
+![miko](https://raw.githubusercontent.com/comicat-hu/comicat-hu/master/img/miko.jpg)
 
 <h2 align="center">If not, just let you take a look now ^^</h2>
 
