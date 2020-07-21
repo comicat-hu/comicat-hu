@@ -6,7 +6,7 @@
 
 <hr>
 
-<h1 align="center">Hi! I'm Comi.</h1>
+<h1 align="left">Hi! I'm comicat.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=comicat-hu" alt="comicat-hu" /> </p>
 
