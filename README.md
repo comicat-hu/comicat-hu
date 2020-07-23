@@ -21,7 +21,8 @@
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=comicat-hu&show_icons=true&hide=stars,contribs&theme=tokyonight" alt="comicat-hu" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comicat-hu&hide=java,python&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=comicat-hu&show_icons=true&hide=stars,contribs&theme=tokyonight&line_height=40" alt="comicat-hu" />
 </p>
 
 <p align="center">
