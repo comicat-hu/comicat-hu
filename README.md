@@ -13,10 +13,10 @@
 📝 Blog [https://blog.comicat.me](https://blog.comicat.me)
 
 <p align="left">
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/>
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
 </p>
 
 <p align="center">
