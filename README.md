@@ -21,7 +21,7 @@
 
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comicat-hu&theme=algolia&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comicat-hu&theme=algolia&layout=compact&langs_count=6" />
     <img src="https://github-readme-stats.vercel.app/api?username=comicat-hu&show_icons=true&hide=contribs,stars&theme=algolia&line_height=31&count_private=true&include_all_commits=true" alt="comicat-hu" />
 </p>
 
