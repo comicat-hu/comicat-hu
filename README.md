@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=comicat-hu" alt="comicat-hu" /> </p>
 
-📝 Blog [https://blog.comicat.me](https://blog.comicat.me)
+📝 Blog [https://blog.comicat.me](https://blog.comicat.me?utm_source=github_profile)
 
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="30" height="30"/>
